@@ -19,3 +19,10 @@ Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
 ## State
 - Components can have "state" - an object that determines how a component renders and behaves
   - E.g. collapsible menu, state: "open", "close"
+
+## Hooks
+### What is a Hook? [Docs](https://reactjs.org/docs/hooks-state.html#whats-a-hook)
+A Hook is a special function that lets you "hook into" React features.
+  - `useState` 
+    - a Hook that lets you add React state to function components
+    - returns a stateful value and a function to update it
