@@ -1,5 +1,5 @@
 ## Functional VS Class Components
-
+🎥 [7 mins video](https://www.youtube.com/watch?v=wwl6iH5D0LU)
 ### Functional Component
 Example:
 ```
@@ -63,4 +63,6 @@ class ClassComponent extends React.Component{
 export default ClassComponent;
 ```
 - requires to extend from React, creates a `render` function which `returns` an element.
-
+- comes with `constructor`, use to set up initial state
+- you can manage the state of your component, `setState` allows you to hold the data throughout the life cycle of the component
+- 
