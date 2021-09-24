@@ -16,6 +16,9 @@ Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
 - Performance & Testing
 - Data management (one-way data binding, all the data in your state is immutable, you can't mutate it directly)
 
+## Components
+- [Functional VS Class Components](https://github.com/chienleow/react-notes/blob/main/functional-vs-class-components.md)
+
 ## State
 - Components can have "state" - an object that determines how a component renders and behaves
   - E.g. collapsible menu, state: "open", "close"
