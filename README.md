@@ -16,6 +16,11 @@ Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
 - Performance & Testing
 - Data management (one-way data binding, all the data in your state is immutable, you can't mutate it directly)
 
+## Main Concepts
+1. Lists and Keys
+  - Keys help React identify which items have changed, are added, or are removed. 
+  - Keys should be given to the elements inside the array to give the elements a stable identity.
+
 ## Components
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Functional VS Class Components](https://github.com/chienleow/react-notes/blob/main/functional-vs-class-components.md)
