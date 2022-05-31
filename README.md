@@ -1,9 +1,12 @@
 # React Notes
-Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
+Notes from:
+- Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
+- Udemy: [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ## What is [React](https://reactjs.org/)?
 - JavaScript library for building user interfaces
 - strictly front-end, runs in the browser
+- create reusable components for repetitive elements
 - runs on the client as a SPA (Single Page App)
   - where you have a single html page >> routing is done through React >> compiles to a JS bundle that is lodaded by the browser
 - React doesn't have a built-in routing system, unlike [Angular](https://angular.io/), so we have to install an extra package [react router dom](https://reactrouter.com/web/guides/quick-start)
