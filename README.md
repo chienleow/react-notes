@@ -25,7 +25,7 @@ Notes from:
   - Keys should be given to the elements inside the array to give the elements a stable identity.
 
 ## Components
-- [Docs: Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Docs: Thinking in React](https://reactjs.org/docs/thinking-in-react.html): Process of building a React app
 - [Functional VS Class Components](https://github.com/chienleow/react-notes/blob/main/functional-vs-class-components.md)
 
 ## State
