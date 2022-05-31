@@ -1,7 +1,7 @@
 # React Notes
 Youtube tutorial: [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
 
-## What is React?
+## What is [React](https://reactjs.org/)?
 - JavaScript library for building user interfaces
 - strictly front-end, runs in the browser
 - runs on the client as a SPA (Single Page App)
